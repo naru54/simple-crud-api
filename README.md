@@ -6,7 +6,6 @@ The application manages Student details and demonstrates a clean backend archite
 
 This project is created for learning purposes and to demonstrate backend fundamentals commonly expected in Java developer interviews.
 
-
 **🛠️ Tech Stack**
 Java 17
 Spring Boot
@@ -106,6 +105,3 @@ Authentication & Authorization
 👩‍💻 Author
 Narmadha
 Java Backend / Full Stack Developer
-
-
-
